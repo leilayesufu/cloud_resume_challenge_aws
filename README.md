@@ -6,6 +6,7 @@ This <a href="https://cloudresumechallenge.dev/instructions/">16-step challenge<
 ## Architecture
 ![users (1)](https://github.com/leilayesufu/cloud_resume_challenge_aws/assets/78659709/fa15f90d-d268-416d-b85a-4739dc01a15f)
 
+**Setup Instructions**:
 
 **Services Used**:
 - S3
