@@ -7,8 +7,10 @@ This <a href="https://cloudresumechallenge.dev/instructions/">16-step challenge<
 ![users (1)](https://github.com/leilayesufu/cloud_resume_challenge_aws/assets/78659709/fa15f90d-d268-416d-b85a-4739dc01a15f)
 
 **Setup Instructions**:
+
 To use IAC to provision infrastructure for the Lambda function and the dynamoDB table was achieved with Terraform using the Terraform documentation, to initialize a terraform repository, Navigate to the directory containing your terraform files and run the **terraform init** command. This initializes the repository and installs the needed plugins.
-Then run **terraform plan** which shows you the execution plan and what the serices to be added to AWS. Run **terraform apply** to execute the plan.
+Then run **terraform plan** which shows you the execution plan and what services to be added to AWS. Run **terraform apply** to execute the plan.
+
 
 **Services Used**:
 - S3
